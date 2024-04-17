@@ -1,3 +1,7 @@
+import exercicios.Cidade;
+import exercicios.CidadeRecord;
+import exercicios.PessoaRecordShallow;
+
 /**
  * Classe para você testar suas implementações.
  * Veja o README para mais detalhes.
